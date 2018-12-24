@@ -1,0 +1,1 @@
+<resources>    <string name="app_name">Search Movie</string>    <string name="movie_overview">Movie Overview</string>    <string name="release_date">Release Date</string>    <string name="movie_title">Movie Title</string>    <string name="search_movie_title">Search Movie Title</string>    <string name="search">Search</string></resources>
